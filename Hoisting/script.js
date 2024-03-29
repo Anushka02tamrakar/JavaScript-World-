@@ -1,4 +1,5 @@
 //console.log(x); //throw error x is not defined
+getName(); // imvoking even before initialization
 function getName(){
     console.log("Namaste JavaScript")
 }
